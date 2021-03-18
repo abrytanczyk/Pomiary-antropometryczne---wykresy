@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="475.68869047619046" y="542.0">Pomiary</node>
+    <node x="271.625" y="1452.0">PomiaryDziecko</node>
+    <node x="83.5916666666667" y="543.0">Pliki</node>
+    <node x="0.0" y="0.0">MatlabChart</node>
+    <node x="285.1529761904762" y="966.0">Pacjent</node>
+    <node x="252.15297619047618" y="776.0">PomiaryNiemowle</node>
+    <node x="372.0" y="221.0">BrakDanychException</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="PomiaryDziecko" target="Pliki">
+      <point x="-148.71428571428572" y="-81.0" />
+      <point x="296.4107142857143" y="1432.0" />
+      <point x="221.20952380952383" y="1432.0" />
+      <point x="221.20952380952383" y="756.0" />
+      <point x="128.5916666666667" y="756.0" />
+      <point x="-135.0" y="91.0" />
+    </edge>
+    <edge source="Pacjent" target="PomiaryNiemowle">
+      <point x="-97.66666666666669" y="-213.0" />
+      <point x="333.9863095238095" y="941.0" />
+      <point x="311.9863095238095" y="941.0" />
+      <point x="-119.66666666666669" y="70.0" />
+    </edge>
+    <edge source="PomiaryNiemowle" target="Pliki">
+      <point x="-44.875" y="-70.0" />
+      <point x="386.7779761904762" y="756.0" />
+      <point x="398.5916666666667" y="756.0" />
+      <point x="135.0" y="91.0" />
+    </edge>
+    <edge source="PomiaryDziecko" target="Pomiary">
+      <point x="148.71428571428572" y="-81.0" />
+      <point x="593.8392857142858" y="1432.0" />
+      <point x="637.5904761904762" y="1432.0" />
+      <point x="637.5904761904762" y="756.0" />
+      <point x="666.4386904761905" y="756.0" />
+      <point x="81.75" y="92.0" />
+    </edge>
+    <edge source="PomiaryNiemowle" target="Pomiary">
+      <point x="44.875" y="-70.0" />
+      <point x="476.5279761904762" y="756.0" />
+      <point x="502.93869047619046" y="756.0" />
+      <point x="-81.75" y="92.0" />
+    </edge>
+    <edge source="Pliki" target="BrakDanychException">
+      <point x="120.0" y="-91.0" />
+      <point x="383.5916666666667" y="517.0" />
+      <point x="463.0" y="517.0" />
+      <point x="0.0" y="25.0" />
+    </edge>
+    <edge source="Pliki" target="MatlabChart">
+      <point x="-120.0" y="-91.0" />
+      <point x="143.5916666666667" y="517.0" />
+      <point x="88.0" y="517.0" />
+      <point x="-88.0" y="246.0" />
+    </edge>
+    <edge source="PomiaryNiemowle" target="Pacjent">
+      <point x="119.66666666666674" y="70.0" />
+      <point x="551.319642857143" y="941.0" />
+      <point x="529.3196428571429" y="941.0" />
+      <point x="97.66666666666669" y="-213.0" />
+    </edge>
+    <edge source="PomiaryDziecko" target="Pacjent">
+      <point x="-49.57142857142861" y="-81.0" />
+      <point x="395.5535714285714" y="1412.0" />
+      <point x="333.9863095238095" y="1412.0" />
+      <point x="-97.66666666666669" y="213.0" />
+    </edge>
+    <edge source="Pacjent" target="PomiaryDziecko">
+      <point x="0.0" y="213.0" />
+      <point x="431.6529761904762" y="1432.0" />
+      <point x="445.125" y="1432.0" />
+      <point x="-2.8421709430404007E-14" y="-81.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="139.0" y="1099.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

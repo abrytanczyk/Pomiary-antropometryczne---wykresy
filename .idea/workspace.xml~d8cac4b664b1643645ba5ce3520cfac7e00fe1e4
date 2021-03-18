@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="898d1c13-67bc-42bd-8038-13e5757f9083" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projekt_6/NowaWizyta$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projekt_6/NowaWizyta$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projekt_6/NowaWizyta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projekt_6/NowaWizyta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projekt_6/Okno$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projekt_6/Okno$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projekt_6/Pliki.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projekt_6/Pliki.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NowaWizyta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NowaWizyta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Okno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Okno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pliki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pliki.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1W2VTigrro9OlMSoDmFlk9bb85G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="201" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../jpo2017/grupa2/brytanczyk" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Okno">
+    <configuration name="Okno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Okno" />
+      <module name="Projekt_6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Projekt_6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Okno" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="tworzenie nowego pacjenta w trakcie, dziala utworz folder, zostało jeszcze żeby ten plik dane z danymi się wtedy robil">
+      <created>1578317381839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578317381839</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dodawanie pacjenta działa, jest troche prowizoryczne, ale dziala&#10;tylko u mnie dalej nie dziala ten wykres wagi, nie wiem czemu :(">
+      <created>1578321017466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578321017466</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="898d1c13-67bc-42bd-8038-13e5757f9083" name="Default Changelist" comment="" />
+      <created>1578347685751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578347685751</updated>
+      <workItem from="1578347687159" duration="110000" />
+      <workItem from="1578352675361" duration="151000" />
+      <workItem from="1578392331217" duration="15000" />
+      <workItem from="1578395607897" duration="1969000" />
+      <workItem from="1578402061883" duration="902000" />
+    </task>
+    <task id="LOCAL-00003" summary="dodawanie pacjenta działa, jest troche prowizoryczne, ale dziala&#10;tylko u mnie dalej nie dziala ten wykres wagi, nie wiem czemu :(&#10;cos chyba mi sie nie skomitowalo">
+      <created>1578352717395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578352717395</updated>
+    </task>
+    <task id="LOCAL-00004" summary="działa generowanie wykresów, dodałam w konstruktorze pacjenta żeby się robił też okres rozwojowy, zmieniłam nazwe metody okresRozwojowy na makeOkresRozwojowy i robi sie wykres &lt;3">
+      <created>1578402849507</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578402849507</updated>
+    </task>
+    <task id="LOCAL-00005" summary="w jednym miejscu sciezke poprawilam na nowa">
+      <created>1578413165538</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578413165538</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="tworzenie nowego pacjenta w trakcie, dziala utworz folder, zostało jeszcze żeby ten plik dane z danymi się wtedy robil" />
+    <MESSAGE value="dodawanie pacjenta działa, jest troche prowizoryczne, ale dziala&#10;tylko u mnie dalej nie dziala ten wykres wagi, nie wiem czemu :(" />
+    <MESSAGE value="dodawanie pacjenta działa, jest troche prowizoryczne, ale dziala&#10;tylko u mnie dalej nie dziala ten wykres wagi, nie wiem czemu :(&#10;cos chyba mi sie nie skomitowalo" />
+    <MESSAGE value="działa generowanie wykresów, dodałam w konstruktorze pacjenta żeby się robił też okres rozwojowy, zmieniłam nazwe metody okresRozwojowy na makeOkresRozwojowy i robi sie wykres &lt;3" />
+    <MESSAGE value="w jednym miejscu sciezke poprawilam na nowa" />
+    <option name="LAST_COMMIT_MESSAGE" value="w jednym miejscu sciezke poprawilam na nowa" />
+  </component>
+</project>
